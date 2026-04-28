@@ -1,4 +1,6 @@
 📊 Regional Sales Performance Analysis & Visualisation
+
+
 📌 Project Overview
 This project focuses on analyzing regional sales performance to uncover trends, identify high-performing markets, and highlight areas for business improvement. Using data visualization and business intelligence techniques, the project transforms raw sales data into actionable insights for strategic decision-making.
 The dashboard provides an interactive view of sales, profit, product categories, and customer segments across different regions.
