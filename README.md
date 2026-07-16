@@ -33,8 +33,14 @@ Provide actionable recommendations for business growth
 * Interactive Filters – Drill down by date, region, and category
 
   ![Home](Home.png)
-  ![Executive Overview](Executive Overview.png)
-  ![P&C](Product & Channel Performance.png)
+  
+  ![Executive_Overview](ExecutiveOverview.png)
+  
+  ![P&C](Product&ChannelPerformance.png)
+
+  ![CI](CustomerInsight.png)
+
+  ![GI](GeographicInsight.png)
 
 
 🔍 Key Insights
