@@ -1,12 +1,12 @@
 📊 Regional Sales Performance Analysis & Visualisation
 
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing regional sales performance to uncover trends, identify high-performing markets, and highlight areas for business improvement. Using data visualization and business intelligence techniques, the project transforms raw sales data into actionable insights for strategic decision-making.
 The dashboard provides an interactive view of sales, profit, product categories, and customer segments across different regions.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Analyze overall sales and profitability by region
 Compare performance across product categories and sub-categories
@@ -14,7 +14,7 @@ Identify top-performing and underperforming regions
 Track sales trends over time
 Provide actionable recommendations for business growth
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 * Power BI 
 * Excel 
@@ -24,7 +24,7 @@ Provide actionable recommendations for business growth
 * Data Visualization
 * Business Intelligence Reporting
 
-📈 Dashboard Highlights
+## 📈 Dashboard Highlights
 
 * Regional Performance Overview – Compare revenue and profit across regions
 * Sales Trend Analysis – Monthly / yearly growth patterns
@@ -32,25 +32,30 @@ Provide actionable recommendations for business growth
 * Profitability Analysis – Identify margins by region and product line
 * Interactive Filters – Drill down by date, region, and category
 
+# Home
   ![Home](Home.png)
-  
+
+# Executive Overview
   ![Executive_Overview](ExecutiveOverview.png)
-  
+
+# Product & Channel Performance
   ![P&C](Product&ChannelPerformance.png)
 
+# Customer Insight
   ![CI](CustomerInsight.png)
 
+# Geopraphic Insight
   ![GI](GeographicInsight.png)
 
 
-🔍 Key Insights
+## 🔍 Key Insights
 
 * Certain regions consistently outperform others in both sales and profitability
 * Some product categories generate high sales but low profit margins
 * Seasonal trends impact purchasing behavior significantly
 * Targeted strategies in underperforming regions can improve overall growth
 
-💡 Business Recommendations
+## 💡 Business Recommendations
 
 * Focus marketing efforts on high-growth regions
 * Reassess pricing or operational costs in low-margin categories
