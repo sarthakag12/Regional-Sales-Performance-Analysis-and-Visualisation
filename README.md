@@ -32,6 +32,10 @@ Provide actionable recommendations for business growth
 * Profitability Analysis – Identify margins by region and product line
 * Interactive Filters – Drill down by date, region, and category
 
+  ![Home](Home.png)
+  ![Executive Overview](Executive Overview.png)
+  ![P&C](Product & Channel Performance.png)
+
 
 🔍 Key Insights
 
